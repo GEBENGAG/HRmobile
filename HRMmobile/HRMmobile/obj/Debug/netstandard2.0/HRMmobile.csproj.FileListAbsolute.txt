@@ -1,0 +1,41 @@
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.deps.json
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.dll
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.pdb
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.csproj.AssemblyReference.cache
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.AssemblyInfoInputs.cache
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.AssemblyInfo.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.csproj.CoreCompileInputs.cache
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.dll
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\refint\HRMmobile.dll
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.pdb
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\ref\HRMmobile.dll
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\LoginFlyoutPage.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\LoginFlyoutPageDetail.xaml.g.cs
+C:\Users\yugen\Documents\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\LoginFlyoutPageFlyout.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.csproj.AssemblyReference.cache
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.AssemblyInfoInputs.cache
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.AssemblyInfo.cs
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.csproj.CoreCompileInputs.cache
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.dll
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\refint\HRMmobile.dll
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\HRMmobile.pdb
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.deps.json
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.dll
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\bin\Debug\netstandard2.0\HRMmobile.pdb
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Проекты C#\HRMmobile\HRMmobile\HRMmobile\obj\Debug\netstandard2.0\ref\HRMmobile.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7xA7pUct9CbxQca0c935Jb3zqzMbADPvYA8YIMlaI/2tzjC0Dg8XZRDIiWbHjLr4zpQlyGimDQIePkgb8kHOg==",
+  "success": true,
+  "projectFilePath": "E:\\Проекты C#\\HRMmobile\\HRMmobile\\HRMmobile\\HRMmobile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yugen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yugen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\yugen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yugen\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yugen\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
